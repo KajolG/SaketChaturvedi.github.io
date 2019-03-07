@@ -4,4 +4,4 @@ Skin Lesion Analyser(http://skinlesionanalyser.tk/) is a web application designe
 Skin cancer is diagnosed visually, beginning with an initial clinical screening and followed potentially by dermoscopic analysis, a biopsy and histopathological examination. Automated classification of skin lesions using images is a challenging task owing to the fine-grained variability in the appearance of skin lesions.
 It is crucial for any computer aided system to make quick, reliable and accurate predictions. 
 This web application has a potential to make predictions within 2 seconds with categorical accuracy 83.15%, top2 accuracy 91.36% and top3 accuarcy 95.34%.
-The MobileNet model was used for this project as they are considered to be reliable for web applications due to its small size.
+The MobileNet model was used for this project as they are considered to be reliable for web applications development due to its small size.
